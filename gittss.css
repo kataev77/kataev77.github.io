@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: space-between;
+}
+.qqq
+{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    color: brown;
+}
+.qqqq
+{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin: auto;
+    margin-top: 75px;
+}
